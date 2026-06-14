@@ -74,3 +74,6 @@
 - **Володина Арина** - префиксные суммы, линейный поиск максимума, сортировка вставками
 
 **Группа:** 2.1
+
+## Видео
+https://drive.google.com/file/d/1vf7Q7wqA3jT_Xh11QhR1_TqoyxdQB0fE/view?usp=drivesdk
